@@ -1,0 +1,41 @@
+_repo: Tales-from-a-Rolltop-Desk_51957
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Duncan, Walter Jack
+    birthdate: 1881
+    deathdate: 1941
+    gutenberg_agent_id: '37824'
+    url: http://www.gutenberg.org/2009/agents/37824
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Publishers and publishing -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The prize package -- Advice to the lovelorn -- The curious case of
+  Kenelm Digby -- Gloria and the Garden of Sweden -- The Commutation Chophouse --
+  The pert little hat -- Urn burial -- The battle of manila envelopes -- The climacteric
+  -- Punch and Judy -- Referred to the author.
+title: Tales from a Rolltop Desk
+url: http://www.gutenberg.org/ebooks/51957
